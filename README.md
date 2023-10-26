@@ -130,6 +130,7 @@
 - [Codeacademy cheat sheets](https://www.codecademy.com/resources/cheatsheets/all)
 - [Dart cheat sheet](https://dart.dev/codelabs/dart-cheatsheet)
 - [Data Science Cheat Sheet](https://ai.plainenglish.io/master-data-science-with-this-comprehensive-cheat-sheet-numpy-pandas-python-r-ml-dl-nlp-188d50a54952)
+- [Deep Learning Cheat Sheet](https://stanford.edu/~shervine/teaching/cs-229/cheatsheet-deep-learning)
 - [Docker Cheat Sheet](https://github.com/wsargent/docker-cheat-sheet)
 - [Github Cheat Sheet](https://www.slideshare.net/jaehyoksong/github-gitcheatsheet-41782533)
 - [git-cheat-sheet](https://education.github.com/git-cheat-sheet-education.pdf)
